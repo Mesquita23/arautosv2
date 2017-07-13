@@ -171,7 +171,7 @@
                         <img src="public/img/portfolio/pacote-medio.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Pacóte Silver</h4>
+                        <h4>Pacote Silver</h4>
                         <p class="text-muted">Clique aqui para saber mais</p>
                     </div>
                 </div>
@@ -716,14 +716,15 @@
                                 <p class="item-intro text-muted">Nosso serviço vai até você</p>
 								<style type="text/css">img{border-radius: 10px;} </style>
                                 <img  class="img-responsive img-centered" src="public/img/portfolio/pontao2.png" alt="" >
+								<ul class="list-inline">
+                                    <li>Data: Julho 2017</li>
+                                    <li>Cliente: Paulo</li>
+                                    <li>Serviço: Pacote Gold</li>
+                                </ul>
                                 <p>Nós não só podemos lhe oferecer o serviço em áreas privadas mas também em locais públicos como o pontão!</p>
                                 <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-                                <ul class="list-inline">
-                                    <li>Data: Julho 2017</li>
-                                    <li>Client: Round Icons</li>
-                                    <li>Serviço: Graphic Design</li>
-                                </ul>
+                                
                             </div>
                         </div>
                     </div>
