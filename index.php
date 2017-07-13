@@ -541,37 +541,50 @@
                                 <h2>Pacote GOLD</h2>
                                 <p class="item-intro text-muted">Nosso melhor pacote oferece</p>
                                <!-- <img class="img-responsive img-centered" src="img/portfolio/roundicons-free.png" alt=""> -->
-                                <p><strong>Nosso Pacote gold lhe oferece as melhores essencias com os melhores preços </strong></p>
-                                <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 1</li>
-                                    <li>Preço: 140/190 Reais</li>
-                                    <li>Horas: 3/4 Horas</li>
-                                    <li>Garantimos entre 4 a 6 roshs</li>
-                                </ul>
-                                 <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 2</li>
-                                    <li>Preço: 260/330 Reais</li>
-                                    <li>Horas: 3/4 Horas</li>
-                                    <li>Garantimos entre 8 a 11 roshs</li>
-                                </ul>
-                                 <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 3</li>
-                                    <li>Preço: 450/575/680 Reais</li>
-                                    <li>Horas: 4/5/6 Horas</li>
-                                    <li>Garantimos entre 16 a 24 roshs</li>
-                                </ul>
-                                <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 4</li>
-                                    <li>Preço: 700/840 Reais</li>
-                                    <li>Horas: 5/6 Horas</li>
-                                    <li>Garantimos entre 27  a 32 roshs</li>
-                                </ul>
-                                     <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 5</li>
-                                    <li>Preço: 980 Reais</li>
-                                    <li>Horas: 6 Horas</li>
-                                    <li>Garantimos entre 40 roshs</li>
-                                </ul>
+                                <p><strong>Este pacote lhe oferece as melhores essencias do mercado</strong></p>
+								<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Quantidade de Narguiles</th>
+        <th>Preço</th>
+        <th>Horas</th>
+        <th>Roshs Garantidos</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>140/190 Reais</td>
+        <td>3/4 Horas</td>
+        <td>entre 4 a 6 roshs</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>260/330 Reais</td>
+        <td>3/4 Horas</td>
+        <td>entre 8 a 11 roshs</td>
+      </tr>
+         <tr>
+        <td>3</td>
+        <td>450/575/680 Reais</td>
+        <td>4/5/6 Horas</td>
+        <td>entre 16 a 24 roshs</td>
+      </tr>
+         <tr>
+        <td>4</td>
+        <td>700/840 Reais</td>
+        <td>5/6 Horas</td>
+        <td>entre 27  a 32 roshs</td>
+      </tr>
+         <tr>
+        <td>5</td>
+        <td>980 Reais</td>
+        <td>6 Horas</td>
+        <td>entre 40 roshs</td>
+      </tr>
+     
+    </tbody>
+  </table>
                                  <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
@@ -625,41 +638,53 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2>Pacote Silver</h2>
+                                <p class="item-intro text-muted">Nosso pacote médio lhe oferece o melhor custo benefício possível</p>
                                 <!-- <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt=""> -->
-                                <p>Nosso pacote médio lhe oferece essas infom</p>
-                                
-                                 <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 1</li>
-                                    <li>Preço: 70/90 Reais</li>
-                                    <li>Horas: 3/4 Horas</li>
-                                    <li>Garantimos entre 4 a 6 roshs</li>
-                                </ul>
-                                 <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 2</li>
-                                    <li>Preço: 120/160 Reais</li>
-                                    <li>Horas: 3/4 Horas</li>
-                                    <li>Garantimos entre 8 a 11 roshs</li>
-                                </ul>
-                                 <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 3</li>
-                                    <li>Preço: 200/250/320 Reais</li>
-                                    <li>Horas: 3/4/5 Horas</li>
-                                    <li>Garantimos entre 16 a 24 roshs</li>
-                                </ul>
-                                <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 4</li>
-                                    <li>Preço: 290/350 Reais</li>
-                                    <li>Horas: 4/5 Horas</li>
-                                    <li>Garantimos entre 27  a 32 roshs</li>
-                                </ul>
-                                     <ul class="list-inline">
-                                    <li>Quantidade de Narguiles: 5</li>
-                                    <li>Preço: 500 Reais</li>
-                                    <li>Horas: 6 Horas</li>
-                                    <li>Garantimos entre 40 roshs</li>
-                                </ul>
+                                <p><strong>Este pacote oferece essencias zomo e adalya</strong></p>
+                                <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Quantidade de Narguiles</th>
+        <th>Preço</th>
+        <th>Horas</th>
+        <th>Roshs Garantidos</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>70/90 Reais</td>
+        <td>3/4 Horas</td>
+        <td>entre 4 a 6 roshs</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>120/160 Reais</td>
+        <td>3/4 Horas</td>
+        <td>entre 8 a 11 roshs</td>
+      </tr>
+         <tr>
+        <td>3</td>
+        <td>200/250/320 Reais</td>
+        <td>3/4/5 Horas</td>
+        <td>entre 16 a 24 roshs</td>
+      </tr>
+         <tr>
+        <td>4</td>
+        <td>290/350 Reais</td>
+        <td>4/5 Horas</td>
+        <td>entre 27  a 32 roshs</td>
+      </tr>
+         <tr>
+        <td>5</td>
+        <td>500 Reais</td>
+        <td>6 Horas</td>
+        <td>entre 40 roshs</td>
+      </tr>
+     
+    </tbody>
+  </table>
                                 
                                 <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
@@ -684,13 +709,14 @@
                 </div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body">
+                        <div class="col-lg-8 col-lg-offset-2" >
+                            <div class="modal-body redondo " >
                                 <!-- Project Details Go Here -->
                                 <h2>Onde você quiser</h2>
                                 <p class="item-intro text-muted">Nosso serviço vai até você</p>
-                                <img class="img-responsive img-centered" src="public/img/portfolio/pontao2.png" alt="">
-                                <p>Nos não só podemos lhe oferecer o serviço em áreas privadas mas também em locais públicos como o pontão!</p>
+								<style type="text/css">img{border-radius: 10px;} </style>
+                                <img  class="img-responsive img-centered" src="public/img/portfolio/pontao2.png" alt="" >
+                                <p>Nós não só podemos lhe oferecer o serviço em áreas privadas mas também em locais públicos como o pontão!</p>
                                 <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                                 <ul class="list-inline">
