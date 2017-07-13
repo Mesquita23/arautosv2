@@ -640,7 +640,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Pacote Silver</h2>
                                 <p class="item-intro text-muted">Nosso pacote médio lhe oferece o melhor custo benefício possível</p>
-                                <!-- <img class="img-responsive img-centered" src="img/portfolio/treehouse-preview.png" alt=""> -->
+                                <img class="img-responsive img-centered" src="public/img/portfolio/tabelasilver.jpg" alt="">
                                 <p><strong>Este pacote oferece essencias zomo e adalya</strong></p>
                                 <table class="table table-bordered">
     <thead>
