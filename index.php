@@ -154,7 +154,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pacote-basico.png" class="img-responsive" alt="">
+                        <img src="public/img/portfolio/pacote-basico.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Pacote Básico</h4>
@@ -168,7 +168,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pacote-medio.png" class="img-responsive" alt="">
+                        <img src="public/img/portfolio/pacote-medio.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Pacóte Silver</h4>
@@ -183,7 +183,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/pacote-top.png" class="img-responsive" alt="">
+                        <img src="public/img/portfolio/pacote-top.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Pacote Gold</h4>
@@ -197,7 +197,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/servico-pontao.png" class="img-responsive" alt="">
+                        <img src="public/img/portfolio/servico-pontao.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Serviço no Pontão</h4>
@@ -250,7 +250,7 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/escolha.jpg" alt="">
+                                <img class="img-circle img-responsive" src="public/img/about/escolha.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -264,7 +264,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/telefone.jpg" alt="">
+                                <img class="img-circle img-responsive" src="public/img/about/telefone.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -278,7 +278,7 @@
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                                <img class="img-circle img-responsive" src="public/img/about/3.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -292,7 +292,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                                <img class="img-circle img-responsive" src="public/img/about/4.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -330,7 +330,7 @@
 				
 				<div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/kbk.jpg" class="img-responsive img-circle" alt="">
+                        <img src="public/img/team/kbk.jpg" class="img-responsive img-circle" alt="">
                         <h4>Gabriel Xavier (Cabeça)</h4>
                         <p class="text-muted">Mutante</p>
                         <ul class="list-inline social-buttons">
@@ -344,7 +344,7 @@
                 </div>
 				<div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/pedro.jpg" class="img-responsive img-circle" alt="">
+                        <img src="public/img/team/pedro.jpg" class="img-responsive img-circle" alt="">
                         <h4>Pedro Victor</h4>
                         <p class="text-muted">Avisa pra ele não exagerar na menta</p>
                         <ul class="list-inline social-buttons">
@@ -358,7 +358,7 @@
                 </div>
 				<div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/paulo.jpg" class="img-responsive img-circle" alt="">
+                        <img src="public/img/team/paulo.jpg" class="img-responsive img-circle" alt="">
                         <h4>Paulo Henrrique</h4>
                         <p class="text-muted">Garanhão Master</p>
                         <ul class="list-inline social-buttons">
@@ -372,7 +372,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/bruno.jpg" class="img-responsive img-circle" alt="">
+                        <img src="public/img/team/bruno.jpg" class="img-responsive img-circle" alt="">
                         <h4>Bruno Oliveira</h4>
                         <p class="text-muted">Programador supremo</p>
                         <ul class="list-inline social-buttons">
@@ -386,7 +386,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/tiago.jpg" class="img-responsive img-circle" alt="">
+                        <img src="public/img/team/tiago.jpg" class="img-responsive img-circle" alt="">
                         <h4>Tiago Dutra</h4>
                         <p class="text-muted">Rei dos Nargs</p>
                         <ul class="list-inline social-buttons">
@@ -400,7 +400,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="img/team/gabriel.jpg" class="img-responsive img-circle" alt="">
+                        <img src="public/img/team/gabriel.jpg" class="img-responsive img-circle" alt="">
                         <h4>Gabriel Mesquita</h4>
                         <p class="text-muted">Programador Web</p>
                         <ul class="list-inline social-buttons">
@@ -427,22 +427,22 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
-                        <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+                        <img src="public/img/logos/envato.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
-                        <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
+                        <img src="public/img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
-                        <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
+                        <img src="public/img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <a href="#">
-                        <img src="img/logos/trend.jpg" class="img-responsive img-centered" alt="">
+                        <img src="public/img/logos/trend.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
             </div>
@@ -689,7 +689,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Onde você quiser</h2>
                                 <p class="item-intro text-muted">Nosso serviço vai até você</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/pontao2.png" alt="">
+                                <img class="img-responsive img-centered" src="public/img/portfolio/pontao2.png" alt="">
                                 <p>Nos não só podemos lhe oferecer o serviço em áreas privadas mas também em locais públicos como o pontão!</p>
                                 <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
@@ -723,7 +723,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Project Name</h2>
                                 <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                <img class="img-responsive img-centered" src="img/portfolio/escape-preview.png" alt="">
+                                <img class="img-responsive img-centered" src="public/img/portfolio/escape-preview.png" alt="">
                                 <p>Escape is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.</p>
                                 <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/escape-one-page-psd-web-template/">FreebiesXpress.com</a>.</p>
                                 
