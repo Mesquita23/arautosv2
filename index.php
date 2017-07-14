@@ -546,7 +546,7 @@
                                 <h2>Pacote GOLD</h2>
                                 <p class="item-intro text-muted">Nosso melhor pacote oferece</p>
                                <!-- <img class="img-responsive img-centered" src="img/portfolio/roundicons-free.png" alt=""> -->
-                                <p><strong>Este pacote lhe oferece as melhores essencias do mercado</strong></p>
+                                <p><strong>Este pacote lhe oferece as melhores essencias do mercado e caixinha de som</strong></p>
 								<table class="table table-bordered">
     <thead>
       <tr>
