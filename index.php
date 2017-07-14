@@ -258,7 +258,7 @@
                                     <h4 class="subheading">Escolha do serviço</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Nessa etapa ocorrerá a escolha de nossos serviços!</p>
+                                    <p class="text-muted">Escolha o serviço, a quantidade de narguiles e o tempo para o serviço desejado para o evento! (exemplo: pacote Silver: 1 narguile, 3 horas.)</p>
                                 </div>
                             </div>
                         </li>
@@ -272,7 +272,7 @@
                                     <h4 class="subheading">Agendamos seu pedido</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Nesta etapa o cliente informa a data desejada para o evento!</p>
+                                    <p class="text-muted">Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</p>
                                 </div>
                             </div>
                         </li>
@@ -300,7 +300,7 @@
                                     <h4 class="subheading">Funcionamento já no local</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">As essências serão trocadas de quarenta em quarenta minutos e para o serviço "top" disponibilizaremos caixas de som conjuntamente</p>
+                                    <p class="text-muted">As essências serão trocadas no mínino de trinta em trinta minutos e para o pacote "GOLD" disponibilizaremos caixas de som conjuntamente</p>
                                 </div>
                             </div>
                         </li>
@@ -456,6 +456,7 @@
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Entre em contato</h2>
                     <h3 class="section-subheading text-muted">tire qualquer dúvida conosco</h3>
+					<h4 class="section-subheading text-muted">Caso o enviador de emails não esteja em funcionamento por motivos técninocs entre em contato com a gente pelo <strong>arautosdonarguile@gmail.com</strong></h4>
                 </div>
             </div>
             <div class="row">
@@ -499,12 +500,16 @@
             <div class="row">
                 <div class="col-md-4">
                     <span class="copyright">Copyright &copy; arautosdonarguile.com 2017</span>
+					
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
                         <li><a href="https://www.instagram.com/arautosdonarguile/"><i class="fa fa-instagram"></i></a>
                         </li>
                         <li><a href="https://www.facebook.com/Arautosdonarguile/"><i class="fa fa-facebook"></i></a>
+                        </li>
+						<li><p>Email: arautosdonarguile@gmail.com</p></a>
+						<li><p>whatsapp: 61-99175-7645</p></a>
                         </li>
                     </ul>
                 </div>
@@ -585,7 +590,7 @@
      
     </tbody>
   </table>
-                                 <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
+                                 <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
@@ -640,7 +645,7 @@
                                 <!-- Project Details Go Here -->
                                 <h2>Pacote Silver</h2>
                                 <p class="item-intro text-muted">Nosso pacote médio lhe oferece o melhor custo benefício possível</p>
-                                <img class="img-responsive img-centered" src="public/img/portfolio/tabelasilver.jpg" alt="">
+                                <!-- <img class="img-responsive img-centered" src="public/img/portfolio/tabelasilver.jpg" alt=""> -->
                                 <p><strong>Este pacote oferece essencias zomo e adalya</strong></p>
                                 <table class="table table-bordered">
     <thead>
@@ -686,7 +691,7 @@
     </tbody>
   </table>
                                 
-                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
+                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                                  
                             </div>
@@ -722,7 +727,7 @@
                                     <li>Serviço: Pacote Gold</li>
                                 </ul>
                                 <p>Nós não só podemos lhe oferecer o serviço em áreas privadas mas também em locais públicos como o pontão!</p>
-                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
+                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                                 
                             </div>
