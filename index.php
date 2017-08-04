@@ -10,9 +10,9 @@
 <link rel="stylesheet" href="public/css/bootstrap.css">
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
 
 
 
@@ -75,12 +75,12 @@
                     <li>
                         <a class="page-scroll" href="#about">Sobre</a>
                     </li>
-                    <li>
+               <!--     <li>
                         <a class="page-scroll" href="#team">Equipe</a>
-                    </li>
+                    </li>   -->
                     <li>
                         <a class="page-scroll" href="#contact">Contato</a>
-                    </li>
+                    </li>  
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -147,21 +147,8 @@
                 </div>
             </div>
             <div class="row">
-                <!-- <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="public/img/portfolio/pacote-basico.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Pacote Básico</h4>
-                        <p class="text-muted">Clique aqui para saber mais</p>
-                    </div>
-                </div> -->
-                <div class="col-md-4 col-sm-6 portfolio-item">
+                
+               <!-- <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -203,19 +190,19 @@
                         <h4>Serviço no Pontão</h4>
                         <p class="text-muted">Clique aqui para saber mais</p>
                     </div>
-                </div>
-                <!--<div class="col-md-4 col-sm-6 portfolio-item">
+                </div>  -->
+                <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                        <img src="public/img/portfolio/pacote-medio.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Escape</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Narg em casa</h4>
+                        <p class="text-muted">Clique aqui para saber mais</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -225,13 +212,27 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
+                        <img src="public/img/portfolio/pacote-top.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Dreams</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Open narg</h4>
+                        <p class="text-muted">Clique aqui para saber mais</p>
                     </div>
-                </div> -->
+                </div>
+		<div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="public/img/portfolio/servico-pontao.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Arautos no seu evento</h4>
+                        <p class="text-muted">Clique aqui para saber mais</p>
+                    </div>
+                </div> 
             </div>
         </div>
     </section>
@@ -264,7 +265,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="public/img/about/telefone.jpg" alt="">
+                                <img class="img-circle img-responsive" src="public/img/about/telefone.jpeg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -292,7 +293,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="public/img/about/4.jpg" alt="">
+                                <img class="img-circle img-responsive" src="public/img/about/4.jpeg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -318,7 +319,7 @@
     </section>
 
     <!-- Team Section -->
-    <section id="team" class="bg-light-gray">
+   <!-- <section id="team" class="bg-light-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -420,7 +421,7 @@
             </div>
         </div>
     </section>
-
+ -->
     <!-- Clients Aside -->
     <aside class="clients">
         <div class="container">
@@ -753,8 +754,8 @@
                         <div class="col-lg-8 col-lg-offset-2">
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
-                                <h2>Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2>Narg na sua Casa</h2>
+                                <p class="item-intro text-muted">Nosso serviço vai até onde você estiver!</p>
                                 <img class="img-responsive img-centered" src="public/img/portfolio/escape-preview.png" alt="">
                                 <p>Escape is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Escape is a one page web template that was designed with agencies in mind. This template is ideal for those looking for a simple one page solution to describe your business and offer your services.</p>
                                 <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/escape-one-page-psd-web-template/">FreebiesXpress.com</a>.</p>
@@ -798,10 +799,10 @@
     </div>
 
     <!-- jQuery -->
-    <script src="public/vendor/jquery/jquery.min.js"></script>
+    <script src="public/vendor/jquery/jquery.min.js"></script> 
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="public/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="public/vendor/bootstrap/js/bootstrap.min.js"></script> 
 
     <!-- Plugin JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" integrity="sha384-mE6eXfrb8jxl0rzJDBRanYqgBxtJ6Unn4/1F7q4xRRyIw7Vdg9jP4ycT7x1iVsgb" crossorigin="anonymous"></script>
