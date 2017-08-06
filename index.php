@@ -265,7 +265,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="public/img/about/telefone.jpeg" alt="">
+                                <img class="img-circle img-responsive" src="public/img/about/telefone.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -293,7 +293,7 @@
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="public/img/about/4.jpeg" alt="">
+                                <img class="img-circle img-responsive" src="public/img/about/4.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
