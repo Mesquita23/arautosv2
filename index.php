@@ -273,7 +273,7 @@
                                     <h4 class="subheading">Agendamos seu pedido</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</p>
+                                    <p class="text-muted">Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-98385-6969</p>
                                 </div>
                             </div>
                         </li>
@@ -510,7 +510,7 @@
                         <li><a href="https://www.facebook.com/Arautosdonarguile/"><i class="fa fa-facebook"></i></a>
                         </li>
 						<li><p>Email: arautosdonarguile@gmail.com</p></a>
-						<li><p>whatsapp: 61-99175-7645</p></a>
+						<li><p>whatsapp: 61-98385-6969</p></a>
                         </li>
                     </ul>
                 </div>
@@ -591,7 +591,7 @@
      
     </tbody>
   </table>
-                                 <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
+                                 <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-98385-6969</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
@@ -619,7 +619,7 @@
                                 <p class="item-intro text-muted">Nosso pacote mais econômico para você.</p>
                                <!-- <img class="img-responsive img-centered" src="img/portfolio/startup-framework-preview.png" alt=""> -->
                                 <p><a href="http://designmodo.com/startup/?u=787">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>
-                                <p>You can preview Startup Framework <a href="http://designmodo.com/startup/?u=787">here</a>.</p>
+                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-8385-6969</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
@@ -692,7 +692,7 @@
     </tbody>
   </table>
                                 
-                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
+                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-98385-6969</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                                  
                             </div>
@@ -728,7 +728,7 @@
                                     <li>Serviço: Pacote Gold</li>
                                 </ul>
                                 <p>Nós não só podemos lhe oferecer o serviço em áreas privadas mas também em locais públicos como o pontão!</p>
-                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
+                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-98385-6969</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                                 
                             </div>
@@ -760,7 +760,7 @@
         <!-- Slider -->
         <div class="row">
             
-            <div class="col-sm-6">
+            <div class="col-sm-6" style="margin: 0px auto; float: none;">
                 <div class="col-xs-12" id="slider">
                     <!-- Top part of the slider -->
                     <div class="row">
@@ -772,19 +772,19 @@
                                         <img src="http://placehold.it/470x480&text=zero"></div>
 
                                     <div class="item" data-slide-number="1">
-                                        <img src="http://placehold.it/470x480&text=1"></div>
+                                        <img src="http://placehold.it/470x480&text=Titi é gay"></div>
 
                                     <div class="item" data-slide-number="2">
-                                        <img src="http://placehold.it/470x480&text=2"></div>
+                                        <img src="http://placehold.it/470x480&text=kbc é gay"></div>
 
                                     <div class="item" data-slide-number="3">
-                                        <img src="http://placehold.it/470x480&text=3"></div>
+                                        <img src="http://placehold.it/470x480&text=Paulo é gay"></div>
 
                                     <div class="item" data-slide-number="4">
-                                        <img src="http://placehold.it/470x480&text=4"></div>
+                                        <img src="http://placehold.it/470x480&text=Jojo é gay"></div>
 
                                     <div class="item" data-slide-number="5">
-                                        <img src="http://placehold.it/470x480&text=5"></div>
+                                        <img src="http://placehold.it/470x480&text=Gabriel heterozão"></div>
                                     
                                     <div class="item" data-slide-number="6">
                                         <img src="http://placehold.it/470x480&text=6"></div>
@@ -838,7 +838,7 @@
                                 <p class="item-intro text-muted">Nosso serviço vai até onde você estiver!</p>
                                 <img class="img-responsive img-centered" src="public/img/portfolio/escape-preview.png" alt="">
                                 <p>Agende seu pedido e desfrute do serviço onde você quiser!</p>
-		<p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-99175-7645</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
+		<p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-8385-6969</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
 
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
@@ -868,7 +868,7 @@
                                 <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/dreams-preview.png" alt="">
                                 <p>Dreams is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. Dreams is a modern one page web template designed for almost any purpose. It’s a beautiful template that’s designed with the Bootstrap framework in mind.</p>
-                                <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/dreams-free-one-page-web-template/">FreebiesXpress.com</a>.</p>
+                                <p><strong>Entre em contato com a gente pelo email arautosdonarguile@gmail.com ou pelo whatsapp: 61-8385-6969</strong> <a href="https://www.facebook.com/Arautosdonarguile/">Facebook</a>.</p>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                             </div>
                         </div>
